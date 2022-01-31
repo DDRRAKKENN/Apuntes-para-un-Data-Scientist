@@ -1,4 +1,5 @@
-# Apuntes-para-un-Data-Scientist
+# Apuntes para un Data Scientist
+
 Algunos apuntes faciles de llevar y ejecutar paso a paso para comprender de manera simple las librerias mas usadas, como Pandas, Numpy y matplotlib.
 Los apuntes iran creciendo a medida que hagas mas resumenes, si ven algo raro o bueno para aportar pueden hacermelo saber! :)
 
@@ -13,6 +14,5 @@ La misma puede ser descargada de [Numpy](https://numpy.org/)
 ## Libreria Matplotlib
 Matplotlib es una biblioteca para la generación de gráficos a partir de datos contenidos en listas o arrays en el lenguaje de programación Python y su extensión matemática NumPy. Proporciona una API, pylab, diseñada para recordar a la de MATLAB.
 La misma puede ser descargada de [Matplotlib](https://matplotlib.org/).
-
 
 Todas estas librerias y muchas mas pueden ser descargadas desde [pypi.org](https://pypi.org/).
